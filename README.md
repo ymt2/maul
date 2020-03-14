@@ -1,4 +1,6 @@
-# maul
+# maul ![License: MIT][mit-badge]
+
+[mit-badge]: https://img.shields.io/badge/License-MIT-blue.svg
 
 maul is a multiplexer to call [GitHub REST API v3: Create a milestone](https://developer.github.com/v3/issues/milestones/#create-a-milestone).
 
